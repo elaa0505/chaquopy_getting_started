@@ -1,9 +1,7 @@
-Chaquopy: Getting Started
-=========================
+Creating a Python Activity
+==========================
 
 .. toctree::
-	:maxdepth: 2
-
 	01_install_python_plugin
 	02_create_project
 	03_create_activity

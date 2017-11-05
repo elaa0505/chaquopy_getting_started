@@ -8,10 +8,12 @@ Now that our activity is set up, we have to make some adjustments to various con
 Open ``PythonActivity/build.gradle`` and add the following code:
 
 @ buildscript.repositories:
+
 .. code-block::
   maven{url "https://chaquo.com/maven"}
 
 @ buildscript.dependencies:
+
 .. code-block::
   classpath "com.chaquo.python:gradle:0.5.0"
 
@@ -22,10 +24,12 @@ Open ``PythonActivity/build.gradle`` and add the following code:
 Open ``PythonActivity/app/build.gradle`` and add the following code:
 
 @ root:
+
 .. code-block::
   apply plugin: "com.chaquo.python"  // Must come after com.android.application
 
 @ android.defaultConfig:
+
 .. code-block::
   ndk {abiFilters "x86", "armeabi-v7a"}
   python {
@@ -41,10 +45,12 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
 Open ``PythonActivity/app/src/main/AndroidManifest.xml`` and add the following code:
 
 @ manifest.application:
+
 .. code-block::
   android:name = "com.chaquo.python.android.PyApplication"
 
 update manifest.application.activity.name:
+
 .. code-block::
   ".main_activity.MainActivity"
 
@@ -55,6 +61,7 @@ update manifest.application.activity.name:
 Open ``PythonActivity/app/src/main/res/layout/activity_main.xml`` and add the following code:
 
 update the `tools:context` attribute of the primary layout:
+
 .. code-block::
   "demo.chaquopy.pythonactivity.main_activity.MainActivity"
 
