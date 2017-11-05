@@ -19,7 +19,8 @@ Open ``PythonActivity/build.gradle`` and add the following code:
 
   classpath "com.chaquo.python:gradle:0.5.0"
 
-<a href="../../_images/getting_started/python_activity/04_update_configuration/01_primary_gradle.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/01_primary_gradle.png"></a>
+.. raw:: html
+  <a href="../../_images/getting_started/python_activity/04_update_configuration/01_primary_gradle.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/01_primary_gradle.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
@@ -42,7 +43,8 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
     staticProxy "demo.chaquopy.pythonactivity.main_activity"
   }
 
-<a href="../../_images/getting_started/python_activity/04_update_configuration/02_module_gradle.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/02_module_gradle.png"></a>
+.. raw:: html
+  <a href="../../_images/getting_started/python_activity/04_update_configuration/02_module_gradle.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/02_module_gradle.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
@@ -60,7 +62,8 @@ update manifest.application.activity.name:
 
   ".main_activity.MainActivity"
 
-<a href="../../_images/getting_started/python_activity/04_update_configuration/03_manifest.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/03_manifest.png"></a>
+.. raw:: html
+  <a href="../../_images/getting_started/python_activity/04_update_configuration/03_manifest.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/03_manifest.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
@@ -70,5 +73,6 @@ Open ``PythonActivity/app/src/main/res/layout/activity_main.xml`` and update the
 
   "demo.chaquopy.pythonactivity.main_activity.MainActivity"
 
-<a href="../../_images/getting_started/python_activity/04_update_configuration/04_layout.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/04_layout.png"></a>
+.. raw:: html
+  <a href="../../_images/getting_started/python_activity/04_update_configuration/04_layout.png" target="_blank"><img src="../../_images/getting_started/python_activity/04_update_configuration/04_layout.png"></a>
 
