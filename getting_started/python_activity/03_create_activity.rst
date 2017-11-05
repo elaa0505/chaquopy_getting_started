@@ -4,7 +4,7 @@ Create Activity
 
 Open ``Project View`` by clicking the dropdown at the top of the Project window and selecting ``Project``.
 
-.. image:: /_images/getting_started/python_activity/03_create_activity/01_open_project_view.png
+<a href="../../_images/getting_started/python_activity/03_create_activity/01_open_project_view.png" target="_blank"><img src="../../_images/getting_started/python_activity/03_create_activity/01_open_project_view.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
@@ -12,18 +12,18 @@ Navigate to ``PythonActivity/app/src/main/java/demo.chaquopy.pythonactivity`` & 
 
 Uncheck ``Safe delete`` in the following dialog.
 
-.. image:: /_images/getting_started/python_activity/03_create_activity/02_delete_java_main_activity.png
+<a href="../../_images/getting_started/python_activity/03_create_activity/02_delete_java_main_activity.png" target="_blank"><img src="../../_images/getting_started/python_activity/03_create_activity/02_delete_java_main_activity.png"></a>
 
-.. image:: /_images/getting_started/python_activity/03_create_activity/03_uncheck_safe_delete.png
+<a href="../../_images/getting_started/python_activity/03_create_activity/03_uncheck_safe_delete.png" target="_blank"><img src="../../_images/getting_started/python_activity/03_create_activity/03_uncheck_safe_delete.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
 Next, we'll create some directories & files that are required for our Python activity.
 
 
-.. image:: /_images/getting_started/python_activity/03_create_activity/04_create_directory.png
+<a href="../../_images/getting_started/python_activity/03_create_activity/04_create_directory.png" target="_blank"><img src="../../_images/getting_started/python_activity/03_create_activity/04_create_directory.png"></a>
 
-.. image:: /_images/getting_started/python_activity/03_create_activity/05_create_python_file.png
+<a href="../../_images/getting_started/python_activity/03_create_activity/05_create_python_file.png" target="_blank"><img src="../../_images/getting_started/python_activity/03_create_activity/05_create_python_file.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Files:
   - ``PythonActivity/app/src/main/python/demo/chaquopy/pythonactivity/__init__.py``
   - ``PythonActivity/app/src/main/python/demo/chaquopy/pythonactivity/main_activity.py``
 
-.. image:: /_images/getting_started/python_activity/03_create_activity/06_file_structure.png
+<a href="../../_images/getting_started/python_activity/03_create_activity/06_file_structure.png" target="_blank"><img src="../../_images/getting_started/python_activity/03_create_activity/06_file_structure.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
