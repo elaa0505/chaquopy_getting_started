@@ -19,7 +19,7 @@ Open ``PythonActivity/build.gradle`` and add the following code:
 
   classpath "com.chaquo.python:gradle:0.5.0"
 
-.. image:: /_images/python_activity/04_update_configuration/01_primary_gradle.png
+.. image:: /_images/getting_started/python_activity/04_update_configuration/01_primary_gradle.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
     staticProxy "demo.chaquopy.pythonactivity.main_activity"
   }
 
-.. image:: /_images/python_activity/04_update_configuration/02_module_gradle.png
+.. image:: /_images/getting_started/python_activity/04_update_configuration/02_module_gradle.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -60,7 +60,7 @@ update manifest.application.activity.name:
 
   ".main_activity.MainActivity"
 
-.. image:: /_images/python_activity/04_update_configuration/03_manifest.png
+.. image:: /_images/getting_started/python_activity/04_update_configuration/03_manifest.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -72,5 +72,5 @@ update the ``tools:context`` attribute of the primary layout:
 
   "demo.chaquopy.pythonactivity.main_activity.MainActivity"
 
-.. image:: /_images/python_activity/04_update_configuration/04_layout.png
+.. image:: /_images/getting_started/python_activity/04_update_configuration/04_layout.png
 

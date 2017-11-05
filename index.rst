@@ -2,4 +2,4 @@ Chaquopy: Getting Started
 =========================
 
 .. toctree::
-	python_activity/index
+	getting_started/index
