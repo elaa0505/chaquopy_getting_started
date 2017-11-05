@@ -8,7 +8,7 @@ The ``Python Community Edition`` plugin adds support for the Python language to 
 Open Android Studio, click on the ``Configure`` menu, & click on the ``Plugins`` option.
 
 .. raw:: html
-	<a href="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu" target="_blank"><img src="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu"></a>
+	<a href="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu.png" target="_blank"><img src="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
