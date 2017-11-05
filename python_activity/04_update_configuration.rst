@@ -9,12 +9,12 @@ Open ``PythonActivity/build.gradle`` and add the following code:
 
 @ buildscript.repositories:
 
-.. code-block:: java
+.. code-block:: guess
   maven{url "https://chaquo.com/maven"}
 
 @ buildscript.dependencies:
 
-.. code-block:: java
+.. code-block:: guess
   classpath "com.chaquo.python:gradle:0.5.0"
 
 .. image:: /_images/python_activity/04_update_configuration/01_primary_gradle.png
@@ -25,12 +25,12 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
 
 @ root:
 
-.. code-block:: java
+.. code-block:: guess
   apply plugin: "com.chaquo.python"  // Must come after com.android.application
 
 @ android.defaultConfig:
 
-.. code-block:: java
+.. code-block:: guess
   ndk {abiFilters "x86", "armeabi-v7a"}
   python {
     buildPython "C:/path/to/your/python.exe"
@@ -46,12 +46,12 @@ Open ``PythonActivity/app/src/main/AndroidManifest.xml`` and add the following c
 
 @ manifest.application:
 
-.. code-block:: xml
+.. code-block:: guess
   android:name = "com.chaquo.python.android.PyApplication"
 
 update manifest.application.activity.name:
 
-.. code-block:: xml
+.. code-block:: guess
   ".main_activity.MainActivity"
 
 .. image:: /_images/python_activity/04_update_configuration/03_manifest.png
@@ -62,7 +62,7 @@ Open ``PythonActivity/app/src/main/res/layout/activity_main.xml`` and add the fo
 
 update the ``tools:context`` attribute of the primary layout:
 
-.. code-block:: xml
+.. code-block:: guess
   "demo.chaquopy.pythonactivity.main_activity.MainActivity"
 
 .. image:: /_images/python_activity/04_update_configuration/04_layout.png
