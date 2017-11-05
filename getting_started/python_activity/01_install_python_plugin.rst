@@ -8,13 +8,14 @@ The ``Python Community Edition`` plugin adds support for the Python language to 
 Open Android Studio, click on the ``Configure`` menu, & click on the ``Plugins`` option.
 
 .. raw:: html
-	<a href="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu.png" target="_blank"><img src="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu.png"></a>
+	<a href="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu.png.png" target="_blank"><img src="../../_images/getting_started--python_activity--01_install_python_plugin--01_menu.png.png"></a>
 
 ---------------------------------------------------------------------------------------------------
 
 Navigate to the ``Plugins`` sections & click ``Install JetBrains plugin...``.
 
 .. image:: /_images/getting_started--python_activity--01_install_python_plugin--02_plugins.png
+	:target: /_images/getting_started--python_activity--01_install_python_plugin--02_plugins.png
 
 ---------------------------------------------------------------------------------------------------
 
