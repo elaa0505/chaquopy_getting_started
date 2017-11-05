@@ -1,5 +1,5 @@
-Creating a Python Activity
-==========================
+Getting Started
+===============
 
 .. toctree::
 	python_activity/index
