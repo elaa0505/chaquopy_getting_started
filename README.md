@@ -1,1 +1,0 @@
-# chaquopy_getting_started
