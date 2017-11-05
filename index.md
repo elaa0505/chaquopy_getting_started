@@ -1,10 +1,5 @@
-.. Chaquopy_GettingStarted documentation master file, created by
-   sphinx-quickstart on Sun Nov  5 11:11:19 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-Welcome to Chaquopy_GettingStarted's documentation!
-===================================================
+Chaquopy: Getting Started
+-------------------------
 
 .. toctree::
    :maxdepth: 2
@@ -13,8 +8,7 @@ Welcome to Chaquopy_GettingStarted's documentation!
 
 
 Indices and tables
-==================
+------------------
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* :ref:`python_activity`
+* :ref:`python_library`
