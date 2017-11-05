@@ -4,8 +4,7 @@ Create Project
 
 Click ``Start a new Android Studio project``
 
-.. raw:: html
-  <a href="../../_images/getting_started/python_activity/02_create_project/01_start.png" target="_blank"><img src="../../_images/getting_started/python_activity/02_create_project/01_start.png"></a>
+.. image:: /_images/getting_started/python_activity/02_create_project/01_start.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -17,8 +16,7 @@ If you want the provided code samples to match you project, use:
 
 	Company domain: ``chaquopy.demo``
 
-.. raw:: html
-  <a href="../../_images/getting_started/python_activity/02_create_project/02_name.png" target="_blank"><img src="../../_images/getting_started/python_activity/02_create_project/02_name.png"></a>
+.. image:: /_images/getting_started/python_activity/02_create_project/02_name.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -26,15 +24,13 @@ Select a target API.
 
 The default should be fine in most cases. Update it for compatibility with your device if necessary.
 
-.. raw:: html
-  <a href="../../_images/getting_started/python_activity/02_create_project/03_target.png" target="_blank"><img src="../../_images/getting_started/python_activity/02_create_project/03_target.png"></a>
+.. image:: /_images/getting_started/python_activity/02_create_project/03_target.png
 
 ---------------------------------------------------------------------------------------------------
 
 Select the ``Empty Activity`` template.
 
-.. raw:: html
-  <a href="../../_images/getting_started/python_activity/02_create_project/04_activity.png" target="_blank"><img src="../../_images/getting_started/python_activity/02_create_project/04_activity.png"></a>
+.. image:: /_images/getting_started/python_activity/02_create_project/04_activity.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -42,5 +38,4 @@ Enter names for the main activity & layout, then click ``Finish``.
 
 Leave the defaults if you want these to match the provided code samples.
 
-.. raw:: html
-  <a href="../../_images/getting_started/python_activity/02_create_project/05_configure.png" target="_blank"><img src="../../_images/getting_started/python_activity/02_create_project/05_configure.png"></a>
+.. image:: /_images/getting_started/python_activity/02_create_project/05_configure.png
