@@ -2,13 +2,14 @@ Create Activity
 ===============
 
 
-Open ``Project View`` by clicking the dropdown at the top of the Project window and selecting `Project`.
+Open ``Project View`` by clicking the dropdown at the top of the Project window and selecting ``Project``.
 
 .. image:: /_images/python_activity/03_create_activity/01_open_project_view.png
 
 ---------------------------------------------------------------------------------------------------
 
-Navigate to ``PythonActivity/app/src/main/java/demo.chaquopy.pythonactivity`` & delete ``MainActivity.java``
+Navigate to ``PythonActivity/app/src/main/java/demo.chaquopy.pythonactivity`` & delete ``MainActivity.java``.
+
 Uncheck ``Safe delete`` in the following dialog.
 
 .. image:: /_images/python_activity/03_create_activity/02_delete_java_main_activity.png
@@ -23,6 +24,8 @@ Next, we'll create some directories & files that are required for our Python act
 .. image:: /_images/python_activity/03_create_activity/04_create_directory.png
 
 .. image:: /_images/python_activity/03_create_activity/05_create_python_file.png
+
+---------------------------------------------------------------------------------------------------
 
 Create all of the following directories & files:
 
