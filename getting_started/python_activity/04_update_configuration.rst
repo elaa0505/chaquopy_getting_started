@@ -64,9 +64,7 @@ update manifest.application.activity.name:
 
 ---------------------------------------------------------------------------------------------------
 
-Open ``PythonActivity/app/src/main/res/layout/activity_main.xml`` and add the following code:
-
-update the ``tools:context`` attribute of the primary layout:
+Open ``PythonActivity/app/src/main/res/layout/activity_main.xml`` and update the ``tools:context`` attribute of the primary layout:
 
 .. code-block:: guess
 
