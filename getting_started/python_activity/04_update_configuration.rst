@@ -38,7 +38,7 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
 
   ndk {abiFilters "x86", "armeabi-v7a"}
   python {
-    buildPython "C:/path/to/your/python.exe"
+    buildPython "C:/path/to/your/python.exe"  //  <---- UPDATE THIS
     version "2.7.10"
     staticProxy "demo.chaquopy.pythonactivity.main_activity"
   }
