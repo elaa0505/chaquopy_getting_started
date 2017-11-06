@@ -30,7 +30,7 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
 
 .. code-block:: guess
 
-  apply plugin: "com.chaquo.python"  // Must come after com.android.application
+  apply plugin: "com.chaquo.python"  //  Must come after com.android.application
 
 @ android.defaultConfig:
 
