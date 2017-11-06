@@ -24,11 +24,8 @@ Uncheck ``Safe delete`` in the following dialog.
 Next, we'll create some directories & files that are required for our Python activity.
 
 
-.. image:: /_images/getting_started--python_activity--03_create_activity--04_create_directory.png
-  :target: /_images/getting_started--python_activity--03_create_activity--04_create_directory.png
-
-.. image:: /_images/getting_started--python_activity--03_create_activity--05_create_python_file.png
-  :target: /_images/getting_started--python_activity--03_create_activity--05_create_python_file.png
+.. image:: /_images/getting_started--python_activity--03_create_activity--04_new_menu.png
+  :target: /_images/getting_started--python_activity--03_create_activity--04_new_menu.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -47,8 +44,8 @@ Files:
   - ``PythonActivity/app/src/main/python/demo/chaquopy/pythonactivity/__init__.py``
   - ``PythonActivity/app/src/main/python/demo/chaquopy/pythonactivity/main_activity.py``
 
-.. image:: /_images/getting_started--python_activity--03_create_activity--06_file_structure.png
-  :target: /_images/getting_started--python_activity--03_create_activity--06_file_structure.png
+.. image:: /_images/getting_started--python_activity--03_create_activity--05_file_structure.png
+  :target: /_images/getting_started--python_activity--03_create_activity--05_file_structure.png
 
 ---------------------------------------------------------------------------------------------------
 
