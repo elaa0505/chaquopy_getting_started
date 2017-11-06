@@ -1,5 +1,5 @@
-Install Python Plugin
-=====================
+1: Install Python Plugin
+========================
 
 The ``Python Community Edition`` plugin adds support for the Python language to Android Studio. This allows usage of IDE features like syntax highlighting, auto-completion, & linting in Python files.
 

@@ -1,5 +1,5 @@
-Test App
-========
+5: Test App
+===========
 
 The app is ready to run, start it by clicking the green ``play`` button in the toolbar.
 

@@ -1,5 +1,5 @@
-Create Activity
-===============
+3: Create Activity
+==================
 
 
 Open ``Project View`` by clicking the dropdown at the top of the Project window and selecting ``Project``.

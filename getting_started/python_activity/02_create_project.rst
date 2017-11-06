@@ -1,5 +1,5 @@
-Create Project
-==============
+2: Create Project
+=================
 
 
 Click ``Start a new Android Studio project``

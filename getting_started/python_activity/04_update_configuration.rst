@@ -1,5 +1,5 @@
-Update Configuration
-====================
+4: Update Configuration
+=======================
 
 Now that the activity is set up, we have to make some adjustments to various configuration files.
 
