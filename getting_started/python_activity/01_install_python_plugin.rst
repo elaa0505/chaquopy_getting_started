@@ -12,7 +12,7 @@ Open Android Studio, click on the ``Configure`` menu, & click on the ``Plugins``
 
 ---------------------------------------------------------------------------------------------------
 
-Navigate to the ``Plugins`` sections & click ``Install JetBrains plugin...``.
+Navigate to the ``Plugins`` section & click ``Install JetBrains plugin...``.
 
 .. image:: /_images/getting_started--python_activity--01_install_python_plugin--02_plugins.png
 	:target: /_images/getting_started--python_activity--01_install_python_plugin--02_plugins.png
