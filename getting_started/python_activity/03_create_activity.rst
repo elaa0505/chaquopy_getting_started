@@ -63,6 +63,7 @@ Open ``PythonActivity/app/src/main/python/demo/chaquopy/pythonactivity/main_acti
 
   # Python activities require a static_proxy implementation
   #   in order to generate a Java source file from their contents.
+  # All files that use static proxies must be defined @ app/build.gradle
   class MainActivity(static_proxy(AppCompatActivity)):
 
     # Any methods that will be accessed from Java must implement
