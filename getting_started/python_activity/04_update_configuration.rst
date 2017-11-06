@@ -1,7 +1,7 @@
 Update Configuration
 ====================
 
-Now that our activity is set up, we have to make some adjustments to various configuration files.
+Now that the activity is set up, we have to make some adjustments to various configuration files.
 
 ---------------------------------------------------------------------------------------------------
 

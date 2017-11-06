@@ -21,7 +21,7 @@ Uncheck ``Safe delete`` in the following dialog.
 
 ---------------------------------------------------------------------------------------------------
 
-Next, we'll create some directories & files that are required for our Python activity.
+Next, we need to create some directories & files that are required for our Python activity.
 
 
 .. image:: /_images/getting_started--python_activity--03_create_activity--04_new_menu.png
