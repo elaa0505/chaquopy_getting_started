@@ -20,6 +20,7 @@ Open ``PythonActivity/build.gradle`` and add the following code:
   classpath "com.chaquo.python:gradle:0.5.0"
 
 .. image:: /_images/getting_started--python_activity--04_update_configuration--01_primary_gradle.png
+  :target: /_images/getting_started--python_activity--04_update_configuration--01_primary_gradle.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -43,6 +44,7 @@ Open ``PythonActivity/app/build.gradle`` and add the following code:
   }
 
 .. image:: /_images/getting_started--python_activity--04_update_configuration--02_module_gradle.png
+  :target: /_images/getting_started--python_activity--04_update_configuration--02_module_gradle.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -61,6 +63,7 @@ update manifest.application.activity.name:
   ".main_activity.MainActivity"
 
 .. image:: /_images/getting_started--python_activity--04_update_configuration--03_manifest.png
+  :target: /_images/getting_started--python_activity--04_update_configuration--03_manifest.png
 
 ---------------------------------------------------------------------------------------------------
 
@@ -71,4 +74,5 @@ Open ``PythonActivity/app/src/main/res/layout/activity_main.xml`` and update the
   "demo.chaquopy.pythonactivity.main_activity.MainActivity"
 
 .. image:: /_images/getting_started--python_activity--04_update_configuration--04_layout.png
+  :target: /_images/getting_started--python_activity--04_update_configuration--04_layout.png
 
